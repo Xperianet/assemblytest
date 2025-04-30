@@ -1,0 +1,1 @@
+0040776E | 8B46 0C                  | mov eax,dword ptr ds:[esi+C]     | esi+0C:"zeProcess"
